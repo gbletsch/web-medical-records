@@ -4,6 +4,8 @@ import { ACCESS_TOKEN_NAME } from './constants/apiConstants'
 import Login from './components/Login'
 import Dashboard from './components/Dashboard'
 
+import './global.css'
+
 function App() {
   return (
     <BrowserRouter>
